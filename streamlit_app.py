@@ -80,9 +80,3 @@ with col3:
     
     fig_ab.layout.coloraxis.showscale = False
     st.plotly_chart(fig_ab)
-
-
-
-
-
-
